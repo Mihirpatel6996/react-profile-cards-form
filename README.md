@@ -87,7 +87,9 @@ const handleRemove = (id) => {
 
 ## 🎥 Demo
 
-![Profile Forms Demo](media/profile-forms.gif)
+<div align="center">
+  <img src="media/profile-forms.gif" alt="Profile Forms Demo" width="100%"/>
+</div>
 
 ## 📚 Key Takeaways
 
